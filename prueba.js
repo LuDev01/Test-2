@@ -12,3 +12,5 @@ const sumar2Numeros = (n1 ,n2) => n1 + n2;
 console.log(sumar2Numeros(2,44))
 
 console.log("Camilito es el más teso de todos");
+
+console.log("Soy la mejor programadora del mundo");
